@@ -2012,7 +2012,7 @@
 
     **Venue**: ACL-2016
 
-2. **A* CCG Parsing with a Supertag and Dependency Factored Model.** [paper](https://aclanthology.org/P17-1026)
+2. **A** ***CCG Parsing with a Supertag and Dependency Factored Model.** [paper](https://aclanthology.org/P17-1026)
 
     *Masashi Yoshikawa, Hiroshi Noji, Yuji Matsumoto*
 
