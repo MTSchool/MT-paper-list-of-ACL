@@ -1980,7 +1980,7 @@
 
 ### <span id="StatisticalMachineTranslation">Statistical Machine Translation</span>
 
-#### Word-based Models
+#### <span id="Word-basedModels">Word-based Models</span>
 
 **1.Exponentially Decaying Bag-of-Words Input Features for Feed-Forward Neural Network in Statistical Machine Translation.** [paper](https://aclanthology.org/P16-2048/)
 
@@ -1988,7 +1988,7 @@
 
 **Venue**: ACL-2016
 
-#### Distortion-based and Fertility-based models
+#### <span id="Distortion-basedandFertility-basedmodels">Distortion-based and Fertility-based models</span>
 
 #### Phrase-based Models
 
