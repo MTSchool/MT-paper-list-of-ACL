@@ -1,5 +1,5 @@
 # MT-paper-list-of-ACL
-This is a reading list of papers related to machine translation in ACL from 2012 to 2021.
+This is a reading list of papers related to machine translation in ACL from 2016 to 2021.
 
 We made a classification about machine translation, and sorted the papers according to the classification. And we also collected the interpretations of papers published in WeChat official account, Zhihu, CSDN and bilibili, and put them in the list. Of course, our classification may not be accurate, and related conference papers are incomplete. We will continuously update and improve the list. Welcome to provide comments and suggestions!
 
