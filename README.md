@@ -4,11 +4,8 @@ This is a reading list of machine translation papers in proceedings of ACL from 
 We classify these machine translation papers by our categorization, and sorted the papers based on the categorization . And we also enrich our list with some paper interpretations collected from WeChat official account, Zhihu, CSDN, and bilibili. Of course, our categorization may not be accurate, and list is incomplete. We will keep updating and improving the list. Welcome to provide comments and suggestions!
 
 **[List by Conference](#list-by-conference)**
-
   - [ACL](#ACL)
-
     - [2016](#2016)
-
     - [2017](#2017)
 
     - [2018](#2018)
